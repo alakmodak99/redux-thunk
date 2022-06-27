@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learning Thunk",
+      "status": false
+    },
+    {
+      "title": "Learn Redux",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Learn React-Redux Thunk",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Cooking",
+      "status": false,
+      "id": 4
+    }
+  ]
+}
